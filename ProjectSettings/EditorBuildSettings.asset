@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 72fd16738340c97498d467c0d8705af6
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 155e9e800e642a84eae7c9ecd6a83bbc
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: e33a4fb3fe5e54b4c8cab72c707772d2
+  - enabled: 1
+    path: Assets/Scenes/Reset.unity
+    guid: d638ebde2635bd84eb4e46c508aed9f4
+  - enabled: 1
+    path: Assets/Scenes/Stage/+.unity
+    guid: def3de917b316d94e8a02a5172481f0d
+  - enabled: 1
+    path: Assets/Scenes/Stage/fly.unity
+    guid: e61f3ac3221911f4d8a58c9f89926ef9
+  - enabled: 1
+    path: Assets/Scenes/Stage/king.unity
+    guid: 13723a669b539d84fa8065bbd3ff7230
+  - enabled: 1
+    path: Assets/Scenes/Stage/}.unity
+    guid: 3af06053092d9fc4197d4678094cd6f7
+  - enabled: 1
+    path: "Assets/Scenes/Stage/\u5C71.unity"
+    guid: 08384873ad6bc9b4cbebe5db731907b4
+  - enabled: 1
+    path: Assets/Scenes/Stage/hammer.unity
+    guid: e392ad192a493744bb932c0422e6980c
+  - enabled: 1
+    path: "Assets/Scenes/Stage/\u03BC.unity"
+    guid: d9d3cee52e46dbf43b28077b271863f3
+  - enabled: 1
+    path: Assets/Scenes/Stage/[.unity
+    guid: deecb0a6d2c75954698538852109f191
+  - enabled: 1
+    path: Assets/Scenes/Stage/H.unity
+    guid: 9336a165c7744fc4a9acbf442f6f52eb
+  - enabled: 1
+    path: Assets/Scenes/Stage/3x3.unity
+    guid: 9239f2886695893489c37b43784674c6
+  - enabled: 1
+    path: Assets/Scenes/Stage/slide.unity
+    guid: 9036aba07c559fe4881200f9896db168
+  - enabled: 1
+    path: Assets/Scenes/Stage/4x4.unity
+    guid: dc7465e19f2d52a40978150dafac4df6
+  - enabled: 1
+    path: "Assets/Scenes/Stage/\u30AD.unity"
+    guid: 656406cb1e963c140a4e2baeced77f33
+  - enabled: 1
+    path: Assets/Scenes/Stage/windmill-3.unity
+    guid: fae2a5fdeeea014459e6af579d43852e
+  - enabled: 1
+    path: Assets/Scenes/Stage/windmill-4.unity
+    guid: 740d55eaa84addb4cbb78bd3c05e4342
+  - enabled: 1
+    path: Assets/Scenes/Stage/tilt.unity
+    guid: 6a605752fd7d27a4b95ac07f666677ce
+  - enabled: 1
+    path: Assets/Scenes/Stage/cross.unity
+    guid: 3ebc17c4f02495f4e900c8eabba16b26
+  - enabled: 1
+    path: Assets/Scenes/Stage/Y.unity
+    guid: 3e92a650a2e9e3142a3b3dc05f200433
+  m_configObjects: {}
